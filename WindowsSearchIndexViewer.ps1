@@ -1,6 +1,6 @@
 # Windows Search Index Viewer - PowerShell WinForms GUI
-# Author: [Your Name]
-# Date: [Today's Date]
+# Author: Zotty
+# Date: 23/05/2025
 # Description: Interrogates the Windows Search Index and displays a collapsible tree view of indexed file paths.
 
 Add-Type -AssemblyName System.Windows.Forms
